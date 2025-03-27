@@ -27,5 +27,5 @@ print(result)
 ## Output:
 ![OUTPUT](Screenshot%202025-03-18%20102840.png)
 ## Result: 
-Thus the solutions for the linear equations are successfully solved using python program
+Thus the solutions for the linear equations are successfully solved using python program.
 
